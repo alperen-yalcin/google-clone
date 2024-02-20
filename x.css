@@ -1,0 +1,16 @@
+.td{
+    background-color: "#EEEEEE";
+    column-span: 3;
+}
+.table {
+    border: 0;
+    width: 90%;
+    text-align: center;
+}
+.googleimg {
+    display: block;
+    margin: auto;
+}
+.input {
+    text-align: center;
+}
